@@ -55,6 +55,9 @@ body {
 .egal {
     background-color: #ff9500;
     color: #fff;
+    width: 302px;
+    position: relative;
+    top: 465px;
 }
 
 .minus, .inmultit {
@@ -63,6 +66,11 @@ body {
 }
 
 .plus {
+    background-color: #ff9500;
+    color: #fff;
+}
+
+.divizare{
     background-color: #ff9500;
     color: #fff;
 }
