@@ -30,3 +30,39 @@ body {
     background-color: #333;
     color: #fff;
 }
+.buton {
+    width: 75px;
+    height: 75px;
+    font-size: 24px;
+    cursor: pointer;
+    background-color: #d4d4d2;
+    border: 1px solid #999;
+}
+
+.buton:active {
+    background-color: #b2b2b1;
+}
+
+.unu, .doi, .trei, .patru, .cinci, .sase, .sapte, .opt, .noua, .zero, .punct, .plus {
+    background-color: #d4d4d2;
+}
+
+.sterge {
+    background-color: #ff5c5c;
+    color: #fff;
+}
+
+.egal {
+    background-color: #ff9500;
+    color: #fff;
+}
+
+.minus, .inmultit {
+    background-color: #ff9500;
+    color: #fff;
+}
+
+.plus {
+    background-color: #ff9500;
+    color: #fff;
+}
